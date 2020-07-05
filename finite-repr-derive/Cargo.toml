@@ -1,6 +1,6 @@
 [package]
 name = "finite_repr_derive"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["akst <contact@akst.io>"]
 edition = "2018"
 license-file = "LICENSE"
