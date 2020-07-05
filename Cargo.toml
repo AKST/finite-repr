@@ -1,0 +1,2 @@
+[workspace]
+members = ["finite-repr-core", "finite-repr-derive"]
