@@ -1,0 +1,22 @@
+[package]
+name = "finite_repr"
+version = "0.1.1"
+authors = ["akst <contact@akst.io>"]
+edition = "2018"
+license-file = "LICENSE"
+description = "Isomorphic encoding/decoding data to & from numbers"
+keywords = ["encoding", "decoding"]
+homepage = "https://github.com/mythos-rs/finite-repr"
+repository = "https://github.com/mythos-rs/finite-repr"
+readme = "README.md"
+
+[features]
+# Treat warnings as a build error.
+strict = []
+derive = ["finite_repr_derive"]
+
+[dependencies]
+finite_repr_derive = { version = "0.1", path = "../finite-repr-derive", optional = true }
+
+[dev-dependencies]
+finite_repr_derive = { version = "0.1", path = "../finite-repr-derive" }
