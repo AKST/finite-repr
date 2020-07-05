@@ -2,14 +2,14 @@
 # It is not intended for manual editing.
 [[package]]
 name = "finite_repr"
-version = "0.1.1"
+version = "0.1.3"
 dependencies = [
  "finite_repr_derive",
 ]
 
 [[package]]
 name = "finite_repr_derive"
-version = "0.1.1"
+version = "0.1.3"
 dependencies = [
  "finite_repr",
  "proc-macro2",
