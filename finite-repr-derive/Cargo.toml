@@ -1,13 +1,13 @@
 [package]
 name = "finite_repr_derive"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["akst <contact@akst.io>"]
 edition = "2018"
 license-file = "LICENSE"
 keywords = ["macro", "encoding", "decoding"]
 description = "Proc Macro for the finite_repr crate"
-homepage = "https://github.com/mythos-rs/finite-repr-derive"
-repository = "https://github.com/mythos-rs/finite-repr-derive"
+homepage = "https://github.com/mythos-rs/finite-repr"
+repository = "https://github.com/mythos-rs/finite-repr"
 readme = "README.md"
 
 [lib]
