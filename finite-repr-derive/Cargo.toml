@@ -6,7 +6,7 @@ edition = "2018"
 license-file = "LICENSE"
 keywords = ["macro", "encoding", "decoding"]
 description = "Proc Macro for the finite_repr crate"
-homepage = "https://github.com/mythos-rs/finite-repr"
+homepage = "https://github.com/mythos-rs/finite-repr/tree/master/finite-repr-derive"
 repository = "https://github.com/mythos-rs/finite-repr"
 readme = "README.md"
 

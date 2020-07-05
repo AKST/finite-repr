@@ -1,12 +1,12 @@
 [package]
 name = "finite_repr"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["akst <contact@akst.io>"]
 edition = "2018"
 license-file = "LICENSE"
 description = "Isomorphic encoding/decoding data to & from numbers"
 keywords = ["encoding", "decoding"]
-homepage = "https://github.com/mythos-rs/finite-repr"
+homepage = "https://github.com/mythos-rs/finite-repr/tree/master/finite-repr-core"
 repository = "https://github.com/mythos-rs/finite-repr"
 readme = "README.md"
 
